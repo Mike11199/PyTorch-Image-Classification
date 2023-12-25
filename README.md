@@ -37,7 +37,8 @@
 
   ![image](https://github.com/Mike11199/PyTorch-Image-Classification/assets/91037796/1a9f4619-7510-4c7d-be93-cce894dc63b1)
 
-![image](https://github.com/Mike11199/PyTorch-Image-Classification/assets/91037796/a2e3e2c3-5767-4116-a361-90064a0e86a9)
+![image](https://github.com/Mike11199/PyTorch-Image-Classification/assets/91037796/a66fa906-04f4-45db-8bd2-74c55ecceb6e)
+
 
 
 
