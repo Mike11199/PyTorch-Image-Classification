@@ -1,6 +1,7 @@
 ## PyTorch Image Classification Project
 
-- Front End Repo:  https://github.com/Mike11199/PyTorch-Image-Classification-TypeScript 
+- Front End Repo
+  - https://github.com/Mike11199/PyTorch-Image-Classification-TypeScript 
 
 ## Deployed on A SageMaker Endpoint
 
