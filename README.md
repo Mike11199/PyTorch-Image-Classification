@@ -6,6 +6,10 @@
 
 ## Custom inference.py Handler
 
+- https://sagemaker.readthedocs.io/en/v2.29.1/frameworks/pytorch/using_pytorch.html
+- Reference a bit of https://github.com/aws/amazon-sagemaker-examples/blob/main/introduction_to_applying_machine_learning/sagemaker_pytorch_model_zoo/sagemaker_pytorch_model_zoo.ipynb
+- Large parts of the inference.py had to be rewritten due to issues with cv2 and tensors.  About ~12 hours to get the endpoint up and running.
+
 ![image](https://github.com/Mike11199/PyTorch-Image-Classification/assets/91037796/52ac1269-ccb2-4964-9514-7b6208b78d03)
 
 ## Notebook Screenshots
