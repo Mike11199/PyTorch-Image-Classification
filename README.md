@@ -32,3 +32,13 @@
 ## API Gateway to Invoke Lambda from Outside AWS VPC
 
 ![image](https://github.com/Mike11199/PyTorch-Image-Classification/assets/91037796/e7f81d05-7cb5-4b5d-9f85-e12f74bc1ecb)
+
+- Postman Test of URL to call SageMaker endpoint
+
+  ![image](https://github.com/Mike11199/PyTorch-Image-Classification/assets/91037796/1a9f4619-7510-4c7d-be93-cce894dc63b1)
+
+
+
+
+
+
