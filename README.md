@@ -28,3 +28,7 @@
 - Takes about 12 seconds to process a single image.
 
 ![image](https://github.com/Mike11199/PyTorch-Image-Classification/assets/91037796/9a990e9d-7226-42ba-8b97-ae14b21c1765)
+
+## API Gateway to Invoke Lambda from Outside AWS VPC
+
+![image](https://github.com/Mike11199/PyTorch-Image-Classification/assets/91037796/e7f81d05-7cb5-4b5d-9f85-e12f74bc1ecb)
