@@ -17,6 +17,8 @@
 
 ## Lambda to Invoke Endpoint
 
+- https://docs.aws.amazon.com/apigateway/latest/developerguide/getting-started-with-lambda-integration.html 
+
 ![image](https://github.com/Mike11199/PyTorch-Image-Classification/assets/91037796/0cdd70d7-822c-487b-971d-b49af0cc57d2)
 
 - Takes about 12 seconds to process a single image.
