@@ -17,13 +17,16 @@
 
 ## AWS API Gateway to Invoke Lambda from Outside AWS VPC
 
-![image](https://github.com/Mike11199/PyTorch-Image-Classification/assets/91037796/e7f81d05-7cb5-4b5d-9f85-e12f74bc1ecb)
+- This was difficult.  The image had to be sent in binary form to the API Gateway in the request blob and handled in the lambda as base64.
+- Before, my lambda took an image url, downloaded it with urllib and converted to base 64.  Now it simple takes the binary input of the image.
 
-- Postman Test of URL to call SageMaker endpoint
+![image](https://github.com/Mike11199/PyTorch-Image-Classification/assets/91037796/0dd676cc-fb66-4308-a159-40f0029bf2c7)
 
-![image](https://github.com/Mike11199/PyTorch-Image-Classification/assets/91037796/1a9f4619-7510-4c7d-be93-cce894dc63b1)
+![image](https://github.com/Mike11199/PyTorch-Image-Classification/assets/91037796/12e436af-8abe-4fad-9a47-fec6a5b486ab)
 
-![image](https://github.com/Mike11199/PyTorch-Image-Classification/assets/91037796/a66fa906-04f4-45db-8bd2-74c55ecceb6e)
+![image](https://github.com/Mike11199/PyTorch-Image-Classification/assets/91037796/31e15c2d-09d8-496c-bb34-ad2e906c77a1)
+
+![image](https://github.com/Mike11199/PyTorch-Image-Classification/assets/91037796/8e5f60ef-80de-4925-b65c-f3dd32fabefb)
 
 
 ## Custom inference.py Handler
