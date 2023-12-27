@@ -5,7 +5,7 @@
 
 - Personal project.  Deployed a SageMaker endpoint and API Gateway using a pre-trained PyTorch fasterrcnn_resnet50_fpn_v2 computer vision model.
 
-## Deployed on A SageMaker Endpoint
+## Deployed AWS SageMaker Endpoint
 
 ![image](https://github.com/Mike11199/PyTorch-Image-Classification/assets/91037796/5e9fdef7-d082-45bd-b672-3dc7e8e4d415)
 
@@ -14,6 +14,17 @@
 - https://docs.aws.amazon.com/apigateway/latest/developerguide/getting-started-with-lambda-integration.html 
 
 ![image](https://github.com/Mike11199/PyTorch-Image-Classification/assets/91037796/ad98ae5f-abc3-4279-9744-1ef7604af448)
+
+## AWS API Gateway to Invoke Lambda from Outside AWS VPC
+
+![image](https://github.com/Mike11199/PyTorch-Image-Classification/assets/91037796/e7f81d05-7cb5-4b5d-9f85-e12f74bc1ecb)
+
+- Postman Test of URL to call SageMaker endpoint
+
+![image](https://github.com/Mike11199/PyTorch-Image-Classification/assets/91037796/1a9f4619-7510-4c7d-be93-cce894dc63b1)
+
+![image](https://github.com/Mike11199/PyTorch-Image-Classification/assets/91037796/a66fa906-04f4-45db-8bd2-74c55ecceb6e)
+
 
 ## Custom inference.py Handler
 
@@ -31,17 +42,6 @@
 
 
 
-
-
-## API Gateway to Invoke Lambda from Outside AWS VPC
-
-![image](https://github.com/Mike11199/PyTorch-Image-Classification/assets/91037796/e7f81d05-7cb5-4b5d-9f85-e12f74bc1ecb)
-
-- Postman Test of URL to call SageMaker endpoint
-
-  ![image](https://github.com/Mike11199/PyTorch-Image-Classification/assets/91037796/1a9f4619-7510-4c7d-be93-cce894dc63b1)
-
-![image](https://github.com/Mike11199/PyTorch-Image-Classification/assets/91037796/a66fa906-04f4-45db-8bd2-74c55ecceb6e)
 
 
 
