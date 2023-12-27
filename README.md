@@ -9,6 +9,12 @@
 
 ![image](https://github.com/Mike11199/PyTorch-Image-Classification/assets/91037796/5e9fdef7-d082-45bd-b672-3dc7e8e4d415)
 
+## Lambda to Invoke Endpoint
+
+- https://docs.aws.amazon.com/apigateway/latest/developerguide/getting-started-with-lambda-integration.html 
+
+![image](https://github.com/Mike11199/PyTorch-Image-Classification/assets/91037796/ad98ae5f-abc3-4279-9744-1ef7604af448)
+
 ## Custom inference.py Handler
 
 - https://sagemaker.readthedocs.io/en/v2.29.1/frameworks/pytorch/using_pytorch.html
@@ -24,15 +30,8 @@
 ![image](https://github.com/Mike11199/PyTorch-Image-Classification/assets/91037796/d9369c98-e610-4d0b-903a-cde9d1dde618)
 
 
-## Lambda to Invoke Endpoint
 
-- https://docs.aws.amazon.com/apigateway/latest/developerguide/getting-started-with-lambda-integration.html 
 
-![image](https://github.com/Mike11199/PyTorch-Image-Classification/assets/91037796/0cdd70d7-822c-487b-971d-b49af0cc57d2)
-
-- Takes about 12 seconds to process a single image.
-
-![image](https://github.com/Mike11199/PyTorch-Image-Classification/assets/91037796/9a990e9d-7226-42ba-8b97-ae14b21c1765)
 
 ## API Gateway to Invoke Lambda from Outside AWS VPC
 
